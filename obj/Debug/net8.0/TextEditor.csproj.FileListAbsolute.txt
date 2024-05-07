@@ -1,0 +1,14 @@
+d:\Testes de Aprendizado\TextEditor\bin\Debug\net8.0\TextEditor.exe
+d:\Testes de Aprendizado\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+d:\Testes de Aprendizado\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+d:\Testes de Aprendizado\TextEditor\bin\Debug\net8.0\TextEditor.dll
+d:\Testes de Aprendizado\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+d:\Testes de Aprendizado\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+d:\Testes de Aprendizado\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+d:\Testes de Aprendizado\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+d:\Testes de Aprendizado\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+d:\Testes de Aprendizado\TextEditor\obj\Debug\net8.0\TextEditor.dll
+d:\Testes de Aprendizado\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+d:\Testes de Aprendizado\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+d:\Testes de Aprendizado\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+d:\Testes de Aprendizado\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll
